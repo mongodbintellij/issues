@@ -1,4 +1,4 @@
-# Issues · mongodb/intellij
+# Issues · mongodb/intellij(MongoDB bugbounty POC by @nvk0x)
 
 > Showing **0** open issues · **0** closed
 
